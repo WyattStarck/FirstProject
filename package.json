@@ -1,0 +1,23 @@
+{
+  "name": "firstproj",
+  "version": "1.0.0",
+  "description": "A file with some tables-n-stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WyattStarck/FirstProject.git"
+  },
+  "author": "Wyatt and mostly Monica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WyattStarck/FirstProject/issues"
+  },
+  "homepage": "https://github.com/WyattStarck/FirstProject#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
